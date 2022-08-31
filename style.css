@@ -46,10 +46,12 @@
              {
             padding:5em;
             padding-left:100px;
-            margin:3em;
+            margin:2em;
             }
             #run
             {
-               float: right;
+             float: right;
+             padding-right:100px;
+             margin:1em;
              }
                     
