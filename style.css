@@ -11,7 +11,7 @@
             }
             h2{
                 color:red;
-                padding-right:px;
+                padding-right:5px;
                 font-size:28px;
             }
                 body{
@@ -44,6 +44,7 @@
                 }
 #clap 
 {
-     padding:5em;
+            padding:5em;
+            padding-left:100px;
 }
                     
