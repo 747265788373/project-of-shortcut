@@ -46,11 +46,12 @@
               {
                  float:left;
                  padding-left:80px;
+                 margin:80px;
                  
               }
              #clap 
              {
-            padding:5em;
+            padding:100px;
             padding-left:100px;
             margin:2em;
             }
