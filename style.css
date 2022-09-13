@@ -1,5 +1,5 @@
 
-            h1{
+            .header {
                 color: white;
                 background-color: black;
                 padding-left:100px;
@@ -9,10 +9,7 @@
                 left:10px;
                 
             }
-label > h1 {
-            position : relative;
-left: 0;
-}
+
             h2{
                 color:red;
                 font-size:28px;
