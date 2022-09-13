@@ -19,7 +19,9 @@
                     border:2px solid black;
                     margin:2em;
                 }
-            
+            a {
+                        text-decoration: none;
+              }
                 p{
                 font-size:25px;
                  }
