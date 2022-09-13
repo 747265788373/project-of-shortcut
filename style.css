@@ -9,6 +9,9 @@
                 left:10px;
                 
             }
+label > h1 {
+left: 0;
+}
             h2{
                 color:red;
                 font-size:28px;
