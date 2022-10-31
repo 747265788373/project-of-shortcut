@@ -1,1 +1,2 @@
- <p>project-of-shortcut</p>
+# Favourite animal
+Describing about my favourite animal in detail
